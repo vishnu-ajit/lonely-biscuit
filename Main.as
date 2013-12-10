@@ -1,7 +1,6 @@
 ﻿package  
 {
-	import flash.events.Event;
-	
+	import flash.events.Event;	
 	import flash.display.MovieClip;
 	import flash.events.KeyboardEvent;
 	import flash.ui.Keyboard;
